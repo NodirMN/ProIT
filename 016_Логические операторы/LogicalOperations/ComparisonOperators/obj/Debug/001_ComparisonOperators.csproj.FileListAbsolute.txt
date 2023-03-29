@@ -1,0 +1,14 @@
+D:\LogicalOperations\ComparisonOperators\bin\Debug\ComparisonOperators.exe.config
+D:\LogicalOperations\ComparisonOperators\bin\Debug\ComparisonOperators.exe
+D:\LogicalOperations\ComparisonOperators\bin\Debug\ComparisonOperators.pdb
+D:\LogicalOperations\ComparisonOperators\obj\Debug\001_ComparisonOperators.csprojAssemblyReference.cache
+D:\LogicalOperations\ComparisonOperators\obj\Debug\001_ComparisonOperators.csproj.CoreCompileInputs.cache
+D:\LogicalOperations\ComparisonOperators\obj\Debug\ComparisonOperators.exe
+D:\LogicalOperations\ComparisonOperators\obj\Debug\ComparisonOperators.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\ComparisonOperators\bin\Debug\ComparisonOperators.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\ComparisonOperators\bin\Debug\ComparisonOperators.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\ComparisonOperators\bin\Debug\ComparisonOperators.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\ComparisonOperators\obj\Debug\001_ComparisonOperators.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\ComparisonOperators\obj\Debug\001_ComparisonOperators.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\ComparisonOperators\obj\Debug\ComparisonOperators.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\ComparisonOperators\obj\Debug\ComparisonOperators.pdb

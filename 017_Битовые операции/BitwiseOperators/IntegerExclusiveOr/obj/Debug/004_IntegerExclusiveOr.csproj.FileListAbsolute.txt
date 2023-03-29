@@ -1,0 +1,14 @@
+D:\BitwiseOperators\IntegerExclusiveOr\bin\Debug\IntegerExclusiveOr.exe.config
+D:\BitwiseOperators\IntegerExclusiveOr\bin\Debug\IntegerExclusiveOr.exe
+D:\BitwiseOperators\IntegerExclusiveOr\bin\Debug\IntegerExclusiveOr.pdb
+D:\BitwiseOperators\IntegerExclusiveOr\obj\Debug\004_IntegerExclusiveOr.csprojAssemblyReference.cache
+D:\BitwiseOperators\IntegerExclusiveOr\obj\Debug\004_IntegerExclusiveOr.csproj.CoreCompileInputs.cache
+D:\BitwiseOperators\IntegerExclusiveOr\obj\Debug\IntegerExclusiveOr.exe
+D:\BitwiseOperators\IntegerExclusiveOr\obj\Debug\IntegerExclusiveOr.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\017_Битовые операции\BitwiseOperators\IntegerExclusiveOr\bin\Debug\IntegerExclusiveOr.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\017_Битовые операции\BitwiseOperators\IntegerExclusiveOr\bin\Debug\IntegerExclusiveOr.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\017_Битовые операции\BitwiseOperators\IntegerExclusiveOr\bin\Debug\IntegerExclusiveOr.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\017_Битовые операции\BitwiseOperators\IntegerExclusiveOr\obj\Debug\004_IntegerExclusiveOr.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\017_Битовые операции\BitwiseOperators\IntegerExclusiveOr\obj\Debug\004_IntegerExclusiveOr.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\017_Битовые операции\BitwiseOperators\IntegerExclusiveOr\obj\Debug\IntegerExclusiveOr.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\017_Битовые операции\BitwiseOperators\IntegerExclusiveOr\obj\Debug\IntegerExclusiveOr.pdb

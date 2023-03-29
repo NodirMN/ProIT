@@ -1,0 +1,7 @@
+D:\StringVariables\ReadLine\bin\Debug\ReadLine.exe.config
+D:\StringVariables\ReadLine\bin\Debug\ReadLine.exe
+D:\StringVariables\ReadLine\bin\Debug\ReadLine.pdb
+D:\StringVariables\ReadLine\obj\Debug\001_ReadLine.csprojAssemblyReference.cache
+D:\StringVariables\ReadLine\obj\Debug\001_ReadLine.csproj.CoreCompileInputs.cache
+D:\StringVariables\ReadLine\obj\Debug\ReadLine.exe
+D:\StringVariables\ReadLine\obj\Debug\ReadLine.pdb

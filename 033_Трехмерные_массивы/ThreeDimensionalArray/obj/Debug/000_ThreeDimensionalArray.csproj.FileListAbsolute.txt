@@ -1,0 +1,7 @@
+D:\ThreeDimensionalArray\bin\Debug\ThreeDimensionalArray.exe.config
+D:\ThreeDimensionalArray\bin\Debug\ThreeDimensionalArray.exe
+D:\ThreeDimensionalArray\bin\Debug\ThreeDimensionalArray.pdb
+D:\ThreeDimensionalArray\obj\Debug\000_ThreeDimensionalArray.csprojAssemblyReference.cache
+D:\ThreeDimensionalArray\obj\Debug\000_ThreeDimensionalArray.csproj.CoreCompileInputs.cache
+D:\ThreeDimensionalArray\obj\Debug\ThreeDimensionalArray.exe
+D:\ThreeDimensionalArray\obj\Debug\ThreeDimensionalArray.pdb

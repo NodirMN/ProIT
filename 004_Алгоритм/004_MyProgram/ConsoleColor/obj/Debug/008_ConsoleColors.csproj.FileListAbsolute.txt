@@ -1,0 +1,7 @@
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\ConsoleColor\bin\Debug\ConsoleColor.exe.config
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\ConsoleColor\bin\Debug\ConsoleColor.exe
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\ConsoleColor\bin\Debug\ConsoleColor.pdb
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\ConsoleColor\obj\Debug\008_ConsoleColors.csproj.CoreCompileInputs.cache
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\ConsoleColor\obj\Debug\ConsoleColor.exe
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\ConsoleColor\obj\Debug\ConsoleColor.pdb
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\ConsoleColor\obj\Debug\008_ConsoleColors.csprojAssemblyReference.cache

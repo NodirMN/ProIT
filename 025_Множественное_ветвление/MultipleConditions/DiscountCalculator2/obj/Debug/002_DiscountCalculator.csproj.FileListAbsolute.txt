@@ -1,0 +1,7 @@
+D:\MultipleConditions\DiscountCalculator2\bin\Debug\DiscountCalculator2.exe.config
+D:\MultipleConditions\DiscountCalculator2\bin\Debug\DiscountCalculator2.exe
+D:\MultipleConditions\DiscountCalculator2\bin\Debug\DiscountCalculator2.pdb
+D:\MultipleConditions\DiscountCalculator2\obj\Debug\002_DiscountCalculator.csprojAssemblyReference.cache
+D:\MultipleConditions\DiscountCalculator2\obj\Debug\002_DiscountCalculator.csproj.CoreCompileInputs.cache
+D:\MultipleConditions\DiscountCalculator2\obj\Debug\DiscountCalculator2.exe
+D:\MultipleConditions\DiscountCalculator2\obj\Debug\DiscountCalculator2.pdb

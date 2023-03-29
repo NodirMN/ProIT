@@ -1,0 +1,7 @@
+D:\MultidimensionalArrays\RawMaterialPlanning\bin\Debug\RawMaterialPlanning.exe.config
+D:\MultidimensionalArrays\RawMaterialPlanning\bin\Debug\RawMaterialPlanning.exe
+D:\MultidimensionalArrays\RawMaterialPlanning\bin\Debug\RawMaterialPlanning.pdb
+D:\MultidimensionalArrays\RawMaterialPlanning\obj\Debug\001_RawMaterialPlanning.csprojAssemblyReference.cache
+D:\MultidimensionalArrays\RawMaterialPlanning\obj\Debug\001_RawMaterialPlanning.csproj.CoreCompileInputs.cache
+D:\MultidimensionalArrays\RawMaterialPlanning\obj\Debug\RawMaterialPlanning.exe
+D:\MultidimensionalArrays\RawMaterialPlanning\obj\Debug\RawMaterialPlanning.pdb

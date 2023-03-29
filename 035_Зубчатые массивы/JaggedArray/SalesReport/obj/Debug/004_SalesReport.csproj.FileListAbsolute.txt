@@ -1,0 +1,14 @@
+D:\JaggedArray\SalesReport\bin\Debug\SalesReport.exe.config
+D:\JaggedArray\SalesReport\bin\Debug\SalesReport.exe
+D:\JaggedArray\SalesReport\bin\Debug\SalesReport.pdb
+D:\JaggedArray\SalesReport\obj\Debug\004_SalesReport.csprojAssemblyReference.cache
+D:\JaggedArray\SalesReport\obj\Debug\004_SalesReport.csproj.CoreCompileInputs.cache
+D:\JaggedArray\SalesReport\obj\Debug\SalesReport.exe
+D:\JaggedArray\SalesReport\obj\Debug\SalesReport.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\035_Зубчатые массивы\JaggedArray\SalesReport\bin\Debug\SalesReport.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\035_Зубчатые массивы\JaggedArray\SalesReport\bin\Debug\SalesReport.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\035_Зубчатые массивы\JaggedArray\SalesReport\bin\Debug\SalesReport.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\035_Зубчатые массивы\JaggedArray\SalesReport\obj\Debug\004_SalesReport.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\035_Зубчатые массивы\JaggedArray\SalesReport\obj\Debug\004_SalesReport.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\035_Зубчатые массивы\JaggedArray\SalesReport\obj\Debug\SalesReport.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\035_Зубчатые массивы\JaggedArray\SalesReport\obj\Debug\SalesReport.pdb

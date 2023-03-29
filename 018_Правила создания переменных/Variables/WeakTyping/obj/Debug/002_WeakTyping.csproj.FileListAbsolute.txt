@@ -1,0 +1,13 @@
+D:\Variables\WeakTyping\bin\Debug\WeakTyping.exe.config
+D:\Variables\WeakTyping\bin\Debug\WeakTyping.exe
+D:\Variables\WeakTyping\bin\Debug\WeakTyping.pdb
+D:\Variables\WeakTyping\obj\Debug\002_WeakTyping.csproj.CoreCompileInputs.cache
+D:\Variables\WeakTyping\obj\Debug\WeakTyping.exe
+D:\Variables\WeakTyping\obj\Debug\WeakTyping.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\WeakTyping\bin\Debug\WeakTyping.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\WeakTyping\bin\Debug\WeakTyping.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\WeakTyping\bin\Debug\WeakTyping.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\WeakTyping\obj\Debug\002_WeakTyping.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\WeakTyping\obj\Debug\002_WeakTyping.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\WeakTyping\obj\Debug\WeakTyping.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\WeakTyping\obj\Debug\WeakTyping.pdb

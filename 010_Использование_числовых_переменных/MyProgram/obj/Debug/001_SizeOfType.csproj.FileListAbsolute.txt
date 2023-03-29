@@ -1,0 +1,13 @@
+D:\MyProgram\bin\Debug\MyProgram.exe.config
+D:\MyProgram\bin\Debug\MyProgram.exe
+D:\MyProgram\bin\Debug\MyProgram.pdb
+D:\MyProgram\obj\Debug\001_SizeOfType.csprojAssemblyReference.cache
+D:\MyProgram\obj\Debug\001_SizeOfType.csproj.CoreCompileInputs.cache
+D:\MyProgram\obj\Debug\MyProgram.exe
+D:\MyProgram\obj\Debug\MyProgram.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\bin\Debug\MyProgram.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\bin\Debug\MyProgram.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\bin\Debug\MyProgram.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\obj\Debug\001_SizeOfType.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\obj\Debug\MyProgram.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\obj\Debug\MyProgram.pdb

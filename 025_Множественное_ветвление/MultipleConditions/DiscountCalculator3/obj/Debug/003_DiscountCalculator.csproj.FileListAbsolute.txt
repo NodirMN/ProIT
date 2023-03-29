@@ -1,0 +1,14 @@
+D:\MultipleConditions\DiscountCalculator3\bin\Debug\DiscountCalculator3.exe.config
+D:\MultipleConditions\DiscountCalculator3\bin\Debug\DiscountCalculator3.exe
+D:\MultipleConditions\DiscountCalculator3\bin\Debug\DiscountCalculator3.pdb
+D:\MultipleConditions\DiscountCalculator3\obj\Debug\003_DiscountCalculator.csprojAssemblyReference.cache
+D:\MultipleConditions\DiscountCalculator3\obj\Debug\003_DiscountCalculator.csproj.CoreCompileInputs.cache
+D:\MultipleConditions\DiscountCalculator3\obj\Debug\DiscountCalculator3.exe
+D:\MultipleConditions\DiscountCalculator3\obj\Debug\DiscountCalculator3.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\025_Множественное ветвление\MultipleConditions\DiscountCalculator3\bin\Debug\DiscountCalculator3.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\025_Множественное ветвление\MultipleConditions\DiscountCalculator3\bin\Debug\DiscountCalculator3.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\025_Множественное ветвление\MultipleConditions\DiscountCalculator3\bin\Debug\DiscountCalculator3.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\025_Множественное ветвление\MultipleConditions\DiscountCalculator3\obj\Debug\003_DiscountCalculator.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\025_Множественное ветвление\MultipleConditions\DiscountCalculator3\obj\Debug\003_DiscountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\025_Множественное ветвление\MultipleConditions\DiscountCalculator3\obj\Debug\DiscountCalculator3.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\025_Множественное ветвление\MultipleConditions\DiscountCalculator3\obj\Debug\DiscountCalculator3.pdb

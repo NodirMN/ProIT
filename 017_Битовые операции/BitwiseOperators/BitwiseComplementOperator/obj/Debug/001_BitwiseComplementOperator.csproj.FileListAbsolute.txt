@@ -1,0 +1,7 @@
+D:\BitwiseOperators\BitwiseComplementOperator\bin\Debug\BitwiseComplementOperator.exe.config
+D:\BitwiseOperators\BitwiseComplementOperator\bin\Debug\BitwiseComplementOperator.exe
+D:\BitwiseOperators\BitwiseComplementOperator\bin\Debug\BitwiseComplementOperator.pdb
+D:\BitwiseOperators\BitwiseComplementOperator\obj\Debug\001_BitwiseComplementOperator.csprojAssemblyReference.cache
+D:\BitwiseOperators\BitwiseComplementOperator\obj\Debug\001_BitwiseComplementOperator.csproj.CoreCompileInputs.cache
+D:\BitwiseOperators\BitwiseComplementOperator\obj\Debug\BitwiseComplementOperator.exe
+D:\BitwiseOperators\BitwiseComplementOperator\obj\Debug\BitwiseComplementOperator.pdb

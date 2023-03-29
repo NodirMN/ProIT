@@ -1,0 +1,8 @@
+D:\Variables\MathProblem\obj\Debug\002_MathProblem.csproj.CoreCompileInputs.cache
+D:\WORK\C# Book\LESSONS\006_Переменные величины\Variables\MathProblem\bin\Debug\MathProblem.exe.config
+D:\WORK\C# Book\LESSONS\006_Переменные величины\Variables\MathProblem\bin\Debug\MathProblem.exe
+D:\WORK\C# Book\LESSONS\006_Переменные величины\Variables\MathProblem\bin\Debug\MathProblem.pdb
+D:\WORK\C# Book\LESSONS\006_Переменные величины\Variables\MathProblem\obj\Debug\002_MathProblem.csprojAssemblyReference.cache
+D:\WORK\C# Book\LESSONS\006_Переменные величины\Variables\MathProblem\obj\Debug\002_MathProblem.csproj.CoreCompileInputs.cache
+D:\WORK\C# Book\LESSONS\006_Переменные величины\Variables\MathProblem\obj\Debug\MathProblem.exe
+D:\WORK\C# Book\LESSONS\006_Переменные величины\Variables\MathProblem\obj\Debug\MathProblem.pdb

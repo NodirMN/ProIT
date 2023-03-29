@@ -1,0 +1,7 @@
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\031_Цикл FOR\LoopFor\DiscountCalculator3\bin\Debug\DiscountCalculator3.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\031_Цикл FOR\LoopFor\DiscountCalculator3\bin\Debug\DiscountCalculator3.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\031_Цикл FOR\LoopFor\DiscountCalculator3\bin\Debug\DiscountCalculator3.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\031_Цикл FOR\LoopFor\DiscountCalculator3\obj\Debug\003_DiscountCalculator.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\031_Цикл FOR\LoopFor\DiscountCalculator3\obj\Debug\003_DiscountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\031_Цикл FOR\LoopFor\DiscountCalculator3\obj\Debug\DiscountCalculator3.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\031_Цикл FOR\LoopFor\DiscountCalculator3\obj\Debug\DiscountCalculator3.pdb

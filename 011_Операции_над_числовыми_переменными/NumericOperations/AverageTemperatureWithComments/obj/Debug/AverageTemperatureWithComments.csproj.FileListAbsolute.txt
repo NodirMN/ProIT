@@ -1,0 +1,7 @@
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\AverageTemperatureWithComments\bin\Debug\AverageTemperatureWithComments.exe.config
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\AverageTemperatureWithComments\bin\Debug\AverageTemperatureWithComments.exe
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\AverageTemperatureWithComments\bin\Debug\AverageTemperatureWithComments.pdb
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\AverageTemperatureWithComments\obj\Debug\AverageTemperatureWithComments.csprojAssemblyReference.cache
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\AverageTemperatureWithComments\obj\Debug\AverageTemperatureWithComments.csproj.CoreCompileInputs.cache
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\AverageTemperatureWithComments\obj\Debug\AverageTemperatureWithComments.exe
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\AverageTemperatureWithComments\obj\Debug\AverageTemperatureWithComments.pdb

@@ -1,0 +1,7 @@
+D:\CheckedUnchecked\Sample4\bin\Debug\Sample4.exe.config
+D:\CheckedUnchecked\Sample4\bin\Debug\Sample4.exe
+D:\CheckedUnchecked\Sample4\bin\Debug\Sample4.pdb
+D:\CheckedUnchecked\Sample4\obj\Debug\003_Sample.csprojAssemblyReference.cache
+D:\CheckedUnchecked\Sample4\obj\Debug\003_Sample.csproj.CoreCompileInputs.cache
+D:\CheckedUnchecked\Sample4\obj\Debug\Sample4.exe
+D:\CheckedUnchecked\Sample4\obj\Debug\Sample4.pdb

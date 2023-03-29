@@ -1,0 +1,7 @@
+D:\LoopFor\bin\Debug\LoopFor.exe.config
+D:\LoopFor\bin\Debug\LoopFor.exe
+D:\LoopFor\bin\Debug\LoopFor.pdb
+D:\LoopFor\obj\Debug\001_LoopFor.csprojAssemblyReference.cache
+D:\LoopFor\obj\Debug\001_LoopFor.csproj.CoreCompileInputs.cache
+D:\LoopFor\obj\Debug\LoopFor.exe
+D:\LoopFor\obj\Debug\LoopFor.pdb

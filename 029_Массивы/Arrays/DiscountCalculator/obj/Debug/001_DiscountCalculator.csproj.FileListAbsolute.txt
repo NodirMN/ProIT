@@ -1,0 +1,15 @@
+D:\Arrays\DiscountCalculator\bin\Debug\DiscountCalculator.exe.config
+D:\Arrays\DiscountCalculator\bin\Debug\DiscountCalculator.exe
+D:\Arrays\DiscountCalculator\bin\Debug\DiscountCalculator.pdb
+D:\Arrays\DiscountCalculator\obj\Debug\001_DiscountCalculator.csproj.CoreCompileInputs.cache
+D:\Arrays\DiscountCalculator\obj\Debug\DiscountCalculator.exe
+D:\Arrays\DiscountCalculator\obj\Debug\DiscountCalculator.pdb
+D:\Arrays\DiscountCalculator\bin\Debug\DiscountCalculator.exe.CodeAnalysisLog.xml
+D:\Arrays\DiscountCalculator\bin\Debug\DiscountCalculator.exe.lastcodeanalysissucceeded
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\029_Массивы\Arrays\DiscountCalculator\bin\Debug\DiscountCalculator.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\029_Массивы\Arrays\DiscountCalculator\bin\Debug\DiscountCalculator.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\029_Массивы\Arrays\DiscountCalculator\bin\Debug\DiscountCalculator.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\029_Массивы\Arrays\DiscountCalculator\obj\Debug\001_DiscountCalculator.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\029_Массивы\Arrays\DiscountCalculator\obj\Debug\001_DiscountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\029_Массивы\Arrays\DiscountCalculator\obj\Debug\DiscountCalculator.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\029_Массивы\Arrays\DiscountCalculator\obj\Debug\DiscountCalculator.pdb

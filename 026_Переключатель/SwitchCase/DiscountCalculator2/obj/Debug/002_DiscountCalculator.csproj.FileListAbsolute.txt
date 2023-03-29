@@ -1,0 +1,7 @@
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\026_Переключатель\SwitchCase\DiscountCalculator2\bin\Debug\DiscountCalculator2.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\026_Переключатель\SwitchCase\DiscountCalculator2\bin\Debug\DiscountCalculator2.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\026_Переключатель\SwitchCase\DiscountCalculator2\bin\Debug\DiscountCalculator2.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\026_Переключатель\SwitchCase\DiscountCalculator2\obj\Debug\002_DiscountCalculator.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\026_Переключатель\SwitchCase\DiscountCalculator2\obj\Debug\002_DiscountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\026_Переключатель\SwitchCase\DiscountCalculator2\obj\Debug\DiscountCalculator2.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\026_Переключатель\SwitchCase\DiscountCalculator2\obj\Debug\DiscountCalculator2.pdb

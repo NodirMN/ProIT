@@ -1,0 +1,7 @@
+D:\StringOperation\FormattedOutput\bin\Debug\FormattedOutput.exe.config
+D:\StringOperation\FormattedOutput\bin\Debug\FormattedOutput.exe
+D:\StringOperation\FormattedOutput\bin\Debug\FormattedOutput.pdb
+D:\StringOperation\FormattedOutput\obj\Debug\003_FormattedOutput.csprojAssemblyReference.cache
+D:\StringOperation\FormattedOutput\obj\Debug\003_FormattedOutput.csproj.CoreCompileInputs.cache
+D:\StringOperation\FormattedOutput\obj\Debug\FormattedOutput.exe
+D:\StringOperation\FormattedOutput\obj\Debug\FormattedOutput.pdb

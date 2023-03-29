@@ -1,0 +1,6 @@
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\NegativeNumber\bin\Debug\NegativeNumber.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\NegativeNumber\bin\Debug\NegativeNumber.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\NegativeNumber\bin\Debug\NegativeNumber.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\NegativeNumber\obj\Debug\003_NegativeNumber.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\NegativeNumber\obj\Debug\NegativeNumber.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\NegativeNumber\obj\Debug\NegativeNumber.pdb

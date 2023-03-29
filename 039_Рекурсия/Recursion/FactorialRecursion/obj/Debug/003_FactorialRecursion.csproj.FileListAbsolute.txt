@@ -1,0 +1,14 @@
+D:\Recursion\FactorialRecursion\bin\Debug\FactorialRecursion.exe.config
+D:\Recursion\FactorialRecursion\bin\Debug\FactorialRecursion.exe
+D:\Recursion\FactorialRecursion\bin\Debug\FactorialRecursion.pdb
+D:\Recursion\FactorialRecursion\obj\Debug\003_FactorialRecursion.csprojAssemblyReference.cache
+D:\Recursion\FactorialRecursion\obj\Debug\003_FactorialRecursion.csproj.CoreCompileInputs.cache
+D:\Recursion\FactorialRecursion\obj\Debug\FactorialRecursion.exe
+D:\Recursion\FactorialRecursion\obj\Debug\FactorialRecursion.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\FactorialRecursion\bin\Debug\FactorialRecursion.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\FactorialRecursion\bin\Debug\FactorialRecursion.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\FactorialRecursion\bin\Debug\FactorialRecursion.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\FactorialRecursion\obj\Debug\003_FactorialRecursion.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\FactorialRecursion\obj\Debug\003_FactorialRecursion.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\FactorialRecursion\obj\Debug\FactorialRecursion.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\FactorialRecursion\obj\Debug\FactorialRecursion.pdb

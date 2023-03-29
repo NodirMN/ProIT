@@ -1,0 +1,14 @@
+D:\MultidimensionalArrays\RawMaterialPlanning3\bin\Debug\RawMaterialPlanning3.exe.config
+D:\MultidimensionalArrays\RawMaterialPlanning3\bin\Debug\RawMaterialPlanning3.exe
+D:\MultidimensionalArrays\RawMaterialPlanning3\bin\Debug\RawMaterialPlanning3.pdb
+D:\MultidimensionalArrays\RawMaterialPlanning3\obj\Debug\003_RawMaterialPlanning.csprojAssemblyReference.cache
+D:\MultidimensionalArrays\RawMaterialPlanning3\obj\Debug\003_RawMaterialPlanning.csproj.CoreCompileInputs.cache
+D:\MultidimensionalArrays\RawMaterialPlanning3\obj\Debug\RawMaterialPlanning3.exe
+D:\MultidimensionalArrays\RawMaterialPlanning3\obj\Debug\RawMaterialPlanning3.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\032_Двумерные массивы\MultidimensionalArrays\RawMaterialPlanning3\bin\Debug\RawMaterialPlanning3.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\032_Двумерные массивы\MultidimensionalArrays\RawMaterialPlanning3\bin\Debug\RawMaterialPlanning3.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\032_Двумерные массивы\MultidimensionalArrays\RawMaterialPlanning3\bin\Debug\RawMaterialPlanning3.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\032_Двумерные массивы\MultidimensionalArrays\RawMaterialPlanning3\obj\Debug\003_RawMaterialPlanning.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\032_Двумерные массивы\MultidimensionalArrays\RawMaterialPlanning3\obj\Debug\003_RawMaterialPlanning.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\032_Двумерные массивы\MultidimensionalArrays\RawMaterialPlanning3\obj\Debug\RawMaterialPlanning3.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\032_Двумерные массивы\MultidimensionalArrays\RawMaterialPlanning3\obj\Debug\RawMaterialPlanning3.pdb

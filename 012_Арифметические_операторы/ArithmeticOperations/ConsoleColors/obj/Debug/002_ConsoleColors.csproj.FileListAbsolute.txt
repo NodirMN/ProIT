@@ -1,0 +1,6 @@
+D:\ArithmeticOperations\ConsoleColors\bin\Debug\ConsoleColors.exe.config
+D:\ArithmeticOperations\ConsoleColors\bin\Debug\ConsoleColors.exe
+D:\ArithmeticOperations\ConsoleColors\bin\Debug\ConsoleColors.pdb
+D:\ArithmeticOperations\ConsoleColors\obj\Debug\002_ConsoleColors.csproj.CoreCompileInputs.cache
+D:\ArithmeticOperations\ConsoleColors\obj\Debug\ConsoleColors.exe
+D:\ArithmeticOperations\ConsoleColors\obj\Debug\ConsoleColors.pdb

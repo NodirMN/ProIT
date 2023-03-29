@@ -1,0 +1,6 @@
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\Alias\bin\Debug\Alias.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\Alias\bin\Debug\Alias.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\Alias\bin\Debug\Alias.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\Alias\obj\Debug\002_Alias.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\Alias\obj\Debug\Alias.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\Alias\obj\Debug\Alias.pdb

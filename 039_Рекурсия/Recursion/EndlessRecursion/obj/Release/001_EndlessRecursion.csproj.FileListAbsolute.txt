@@ -1,0 +1,6 @@
+D:\Recursion\EndlessRecursion\bin\Release\EndlessRecursion.exe.config
+D:\Recursion\EndlessRecursion\bin\Release\EndlessRecursion.exe
+D:\Recursion\EndlessRecursion\bin\Release\EndlessRecursion.pdb
+D:\Recursion\EndlessRecursion\obj\Release\001_EndlessRecursion.csproj.CoreCompileInputs.cache
+D:\Recursion\EndlessRecursion\obj\Release\EndlessRecursion.exe
+D:\Recursion\EndlessRecursion\obj\Release\EndlessRecursion.pdb

@@ -1,0 +1,2 @@
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\ConsoleColor\obj\Debug\008_ConsoleColor.csprojAssemblyReference.cache
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\ConsoleColor\obj\Debug\008_ConsoleColor.csproj.CoreCompileInputs.cache

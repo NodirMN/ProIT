@@ -1,0 +1,14 @@
+D:\StringOperation\FormatSpecifiers\bin\Debug\FormatSpecifiers.exe.config
+D:\StringOperation\FormatSpecifiers\bin\Debug\FormatSpecifiers.exe
+D:\StringOperation\FormatSpecifiers\bin\Debug\FormatSpecifiers.pdb
+D:\StringOperation\FormatSpecifiers\obj\Debug\004_FormatSpecifiers.csprojAssemblyReference.cache
+D:\StringOperation\FormatSpecifiers\obj\Debug\004_FormatSpecifiers.csproj.CoreCompileInputs.cache
+D:\StringOperation\FormatSpecifiers\obj\Debug\FormatSpecifiers.exe
+D:\StringOperation\FormatSpecifiers\obj\Debug\FormatSpecifiers.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\014_Операции над строковыми переменными\StringOperation\FormatSpecifiers\bin\Debug\FormatSpecifiers.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\014_Операции над строковыми переменными\StringOperation\FormatSpecifiers\bin\Debug\FormatSpecifiers.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\014_Операции над строковыми переменными\StringOperation\FormatSpecifiers\bin\Debug\FormatSpecifiers.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\014_Операции над строковыми переменными\StringOperation\FormatSpecifiers\obj\Debug\004_FormatSpecifiers.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\014_Операции над строковыми переменными\StringOperation\FormatSpecifiers\obj\Debug\004_FormatSpecifiers.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\014_Операции над строковыми переменными\StringOperation\FormatSpecifiers\obj\Debug\FormatSpecifiers.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\014_Операции над строковыми переменными\StringOperation\FormatSpecifiers\obj\Debug\FormatSpecifiers.pdb

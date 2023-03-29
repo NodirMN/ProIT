@@ -1,0 +1,7 @@
+D:\MethodParameters\SimpleParameter\bin\Debug\SimpleParameter.exe.config
+D:\MethodParameters\SimpleParameter\bin\Debug\SimpleParameter.exe
+D:\MethodParameters\SimpleParameter\bin\Debug\SimpleParameter.pdb
+D:\MethodParameters\SimpleParameter\obj\Debug\002_SimpleParameters.csprojAssemblyReference.cache
+D:\MethodParameters\SimpleParameter\obj\Debug\002_SimpleParameters.csproj.CoreCompileInputs.cache
+D:\MethodParameters\SimpleParameter\obj\Debug\SimpleParameter.exe
+D:\MethodParameters\SimpleParameter\obj\Debug\SimpleParameter.pdb

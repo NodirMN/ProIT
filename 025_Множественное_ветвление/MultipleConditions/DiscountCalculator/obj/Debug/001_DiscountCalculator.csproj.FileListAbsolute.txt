@@ -1,0 +1,14 @@
+D:\MultipleConditions\DiscountCalculator\bin\Debug\DiscountCalculator.exe.config
+D:\MultipleConditions\DiscountCalculator\bin\Debug\DiscountCalculator.exe
+D:\MultipleConditions\DiscountCalculator\bin\Debug\DiscountCalculator.pdb
+D:\MultipleConditions\DiscountCalculator\obj\Debug\001_DiscountCalculator.csprojAssemblyReference.cache
+D:\MultipleConditions\DiscountCalculator\obj\Debug\001_DiscountCalculator.csproj.CoreCompileInputs.cache
+D:\MultipleConditions\DiscountCalculator\obj\Debug\DiscountCalculator.exe
+D:\MultipleConditions\DiscountCalculator\obj\Debug\DiscountCalculator.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\025_Множественное ветвление\MultipleConditions\DiscountCalculator\bin\Debug\DiscountCalculator.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\025_Множественное ветвление\MultipleConditions\DiscountCalculator\bin\Debug\DiscountCalculator.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\025_Множественное ветвление\MultipleConditions\DiscountCalculator\bin\Debug\DiscountCalculator.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\025_Множественное ветвление\MultipleConditions\DiscountCalculator\obj\Debug\001_DiscountCalculator.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\025_Множественное ветвление\MultipleConditions\DiscountCalculator\obj\Debug\001_DiscountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\025_Множественное ветвление\MultipleConditions\DiscountCalculator\obj\Debug\DiscountCalculator.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\025_Множественное ветвление\MultipleConditions\DiscountCalculator\obj\Debug\DiscountCalculator.pdb

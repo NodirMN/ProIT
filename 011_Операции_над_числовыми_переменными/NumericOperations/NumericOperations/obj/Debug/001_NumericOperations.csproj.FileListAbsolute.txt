@@ -1,0 +1,20 @@
+D:\NumericOperations\NumericOperations\bin\Debug\NumericOperations.exe.config
+D:\NumericOperations\NumericOperations\bin\Debug\NumericOperations.exe
+D:\NumericOperations\NumericOperations\bin\Debug\NumericOperations.pdb
+D:\NumericOperations\NumericOperations\obj\Debug\001_NumericOperations.csprojAssemblyReference.cache
+D:\NumericOperations\NumericOperations\obj\Debug\001_NumericOperations.csproj.CoreCompileInputs.cache
+D:\NumericOperations\NumericOperations\obj\Debug\NumericOperations.exe
+D:\NumericOperations\NumericOperations\obj\Debug\NumericOperations.pdb
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\NumericOperations\bin\Debug\NumericOperations.exe.config
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\NumericOperations\bin\Debug\NumericOperations.exe
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\NumericOperations\bin\Debug\NumericOperations.pdb
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\NumericOperations\obj\Debug\001_NumericOperations.csprojAssemblyReference.cache
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\NumericOperations\obj\Debug\001_NumericOperations.csproj.CoreCompileInputs.cache
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\NumericOperations\obj\Debug\NumericOperations.exe
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\NumericOperations\obj\Debug\NumericOperations.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\011_Операции над числовыми переменными\NumericOperations\NumericOperations\bin\Debug\NumericOperations.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\011_Операции над числовыми переменными\NumericOperations\NumericOperations\bin\Debug\NumericOperations.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\011_Операции над числовыми переменными\NumericOperations\NumericOperations\bin\Debug\NumericOperations.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\011_Операции над числовыми переменными\NumericOperations\NumericOperations\obj\Debug\001_NumericOperations.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\011_Операции над числовыми переменными\NumericOperations\NumericOperations\obj\Debug\NumericOperations.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\011_Операции над числовыми переменными\NumericOperations\NumericOperations\obj\Debug\NumericOperations.pdb

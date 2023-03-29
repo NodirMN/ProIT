@@ -1,0 +1,13 @@
+D:\Variables\MultipleAssignment\bin\Debug\MultipleAssignment.exe.config
+D:\Variables\MultipleAssignment\bin\Debug\MultipleAssignment.exe
+D:\Variables\MultipleAssignment\bin\Debug\MultipleAssignment.pdb
+D:\Variables\MultipleAssignment\obj\Debug\004_MultipleAssignment.csprojAssemblyReference.cache
+D:\Variables\MultipleAssignment\obj\Debug\004_MultipleAssignment.csproj.CoreCompileInputs.cache
+D:\Variables\MultipleAssignment\obj\Debug\MultipleAssignment.exe
+D:\Variables\MultipleAssignment\obj\Debug\MultipleAssignment.pdb
+C:\Users\Armen\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\005_Переменные величины\Variables\MultipleAssignment\bin\Debug\MultipleAssignment.exe.config
+C:\Users\Armen\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\005_Переменные величины\Variables\MultipleAssignment\bin\Debug\MultipleAssignment.exe
+C:\Users\Armen\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\005_Переменные величины\Variables\MultipleAssignment\bin\Debug\MultipleAssignment.pdb
+C:\Users\Armen\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\005_Переменные величины\Variables\MultipleAssignment\obj\Debug\004_MultipleAssignment.csprojAssemblyReference.cache
+C:\Users\Armen\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\005_Переменные величины\Variables\MultipleAssignment\obj\Debug\MultipleAssignment.exe
+C:\Users\Armen\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\005_Переменные величины\Variables\MultipleAssignment\obj\Debug\MultipleAssignment.pdb

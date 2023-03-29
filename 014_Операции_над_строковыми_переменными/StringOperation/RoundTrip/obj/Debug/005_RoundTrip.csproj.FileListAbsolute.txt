@@ -1,0 +1,7 @@
+D:\StringOperation\RoundTrip\bin\Debug\RoundTrip.exe.config
+D:\StringOperation\RoundTrip\bin\Debug\RoundTrip.exe
+D:\StringOperation\RoundTrip\bin\Debug\RoundTrip.pdb
+D:\StringOperation\RoundTrip\obj\Debug\005_RoundTrip.csprojAssemblyReference.cache
+D:\StringOperation\RoundTrip\obj\Debug\005_RoundTrip.csproj.CoreCompileInputs.cache
+D:\StringOperation\RoundTrip\obj\Debug\RoundTrip.exe
+D:\StringOperation\RoundTrip\obj\Debug\RoundTrip.pdb

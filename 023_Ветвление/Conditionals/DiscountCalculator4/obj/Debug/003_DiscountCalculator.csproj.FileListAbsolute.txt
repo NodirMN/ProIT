@@ -1,0 +1,6 @@
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\023_Ветвление\Conditionals\DiscountCalculator4\bin\Debug\DiscountCalculator4.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\023_Ветвление\Conditionals\DiscountCalculator4\bin\Debug\DiscountCalculator4.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\023_Ветвление\Conditionals\DiscountCalculator4\bin\Debug\DiscountCalculator4.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\023_Ветвление\Conditionals\DiscountCalculator4\obj\Debug\003_DiscountCalculator.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\023_Ветвление\Conditionals\DiscountCalculator4\obj\Debug\DiscountCalculator4.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\023_Ветвление\Conditionals\DiscountCalculator4\obj\Debug\DiscountCalculator4.pdb

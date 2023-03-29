@@ -1,0 +1,7 @@
+D:\StringVariables\CharSize\bin\Debug\CharSize.exe.config
+D:\StringVariables\CharSize\bin\Debug\CharSize.exe
+D:\StringVariables\CharSize\bin\Debug\CharSize.pdb
+D:\StringVariables\CharSize\obj\Debug\003_CharSize.csprojAssemblyReference.cache
+D:\StringVariables\CharSize\obj\Debug\003_CharSize.csproj.CoreCompileInputs.cache
+D:\StringVariables\CharSize\obj\Debug\CharSize.exe
+D:\StringVariables\CharSize\obj\Debug\CharSize.pdb

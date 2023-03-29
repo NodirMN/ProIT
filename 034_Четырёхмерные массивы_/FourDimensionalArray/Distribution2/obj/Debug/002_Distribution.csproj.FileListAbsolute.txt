@@ -1,0 +1,14 @@
+D:\FourDimensionalArray\Distribution2\bin\Debug\Distribution2.exe.config
+D:\FourDimensionalArray\Distribution2\bin\Debug\Distribution2.exe
+D:\FourDimensionalArray\Distribution2\bin\Debug\Distribution2.pdb
+D:\FourDimensionalArray\Distribution2\obj\Debug\002_Distribution.csprojAssemblyReference.cache
+D:\FourDimensionalArray\Distribution2\obj\Debug\002_Distribution.csproj.CoreCompileInputs.cache
+D:\FourDimensionalArray\Distribution2\obj\Debug\Distribution2.exe
+D:\FourDimensionalArray\Distribution2\obj\Debug\Distribution2.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\034_Четырёхмерные массивы\FourDimensionalArray\Distribution2\bin\Debug\Distribution2.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\034_Четырёхмерные массивы\FourDimensionalArray\Distribution2\bin\Debug\Distribution2.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\034_Четырёхмерные массивы\FourDimensionalArray\Distribution2\bin\Debug\Distribution2.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\034_Четырёхмерные массивы\FourDimensionalArray\Distribution2\obj\Debug\002_Distribution.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\034_Четырёхмерные массивы\FourDimensionalArray\Distribution2\obj\Debug\002_Distribution.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\034_Четырёхмерные массивы\FourDimensionalArray\Distribution2\obj\Debug\Distribution2.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\034_Четырёхмерные массивы\FourDimensionalArray\Distribution2\obj\Debug\Distribution2.pdb

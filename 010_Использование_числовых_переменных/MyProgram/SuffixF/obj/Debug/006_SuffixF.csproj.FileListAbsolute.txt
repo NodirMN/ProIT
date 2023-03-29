@@ -1,0 +1,13 @@
+D:\SuffixF\bin\Debug\SuffixF.exe.config
+D:\SuffixF\bin\Debug\SuffixF.exe
+D:\SuffixF\bin\Debug\SuffixF.pdb
+D:\SuffixF\obj\Debug\006_SuffixF.csprojAssemblyReference.cache
+D:\SuffixF\obj\Debug\006_SuffixF.csproj.CoreCompileInputs.cache
+D:\SuffixF\obj\Debug\SuffixF.exe
+D:\SuffixF\obj\Debug\SuffixF.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\SuffixF\bin\Debug\SuffixF.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\SuffixF\bin\Debug\SuffixF.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\SuffixF\bin\Debug\SuffixF.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\SuffixF\obj\Debug\006_SuffixF.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\SuffixF\obj\Debug\SuffixF.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\SuffixF\obj\Debug\SuffixF.pdb

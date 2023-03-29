@@ -1,0 +1,14 @@
+D:\Recursion\EndlessRecursion\bin\Debug\EndlessRecursion.exe.config
+D:\Recursion\EndlessRecursion\bin\Debug\EndlessRecursion.exe
+D:\Recursion\EndlessRecursion\bin\Debug\EndlessRecursion.pdb
+D:\Recursion\EndlessRecursion\obj\Debug\001_EndlessRecursion.csprojAssemblyReference.cache
+D:\Recursion\EndlessRecursion\obj\Debug\001_EndlessRecursion.csproj.CoreCompileInputs.cache
+D:\Recursion\EndlessRecursion\obj\Debug\EndlessRecursion.exe
+D:\Recursion\EndlessRecursion\obj\Debug\EndlessRecursion.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\EndlessRecursion\bin\Debug\EndlessRecursion.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\EndlessRecursion\bin\Debug\EndlessRecursion.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\EndlessRecursion\bin\Debug\EndlessRecursion.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\EndlessRecursion\obj\Debug\001_EndlessRecursion.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\EndlessRecursion\obj\Debug\001_EndlessRecursion.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\EndlessRecursion\obj\Debug\EndlessRecursion.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\EndlessRecursion\obj\Debug\EndlessRecursion.pdb

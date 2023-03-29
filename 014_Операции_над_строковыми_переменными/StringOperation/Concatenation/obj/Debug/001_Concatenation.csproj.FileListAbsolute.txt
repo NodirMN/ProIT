@@ -1,0 +1,7 @@
+D:\StringOperation\Concatenation\bin\Debug\Concatenation.exe.config
+D:\StringOperation\Concatenation\bin\Debug\Concatenation.exe
+D:\StringOperation\Concatenation\bin\Debug\Concatenation.pdb
+D:\StringOperation\Concatenation\obj\Debug\001_Concatenation.csprojAssemblyReference.cache
+D:\StringOperation\Concatenation\obj\Debug\001_Concatenation.csproj.CoreCompileInputs.cache
+D:\StringOperation\Concatenation\obj\Debug\Concatenation.exe
+D:\StringOperation\Concatenation\obj\Debug\Concatenation.pdb

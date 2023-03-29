@@ -1,0 +1,14 @@
+D:\LogicalOperations\DisjunctionSample\bin\Debug\DisjunctionSample.exe.config
+D:\LogicalOperations\DisjunctionSample\bin\Debug\DisjunctionSample.exe
+D:\LogicalOperations\DisjunctionSample\bin\Debug\DisjunctionSample.pdb
+D:\LogicalOperations\DisjunctionSample\obj\Debug\010_DisjunctionSample.csprojAssemblyReference.cache
+D:\LogicalOperations\DisjunctionSample\obj\Debug\010_DisjunctionSample.csproj.CoreCompileInputs.cache
+D:\LogicalOperations\DisjunctionSample\obj\Debug\DisjunctionSample.exe
+D:\LogicalOperations\DisjunctionSample\obj\Debug\DisjunctionSample.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\DisjunctionSample\bin\Debug\DisjunctionSample.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\DisjunctionSample\bin\Debug\DisjunctionSample.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\DisjunctionSample\bin\Debug\DisjunctionSample.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\DisjunctionSample\obj\Debug\010_DisjunctionSample.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\DisjunctionSample\obj\Debug\010_DisjunctionSample.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\DisjunctionSample\obj\Debug\DisjunctionSample.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\DisjunctionSample\obj\Debug\DisjunctionSample.pdb

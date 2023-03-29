@@ -1,0 +1,8 @@
+D:\Arrays\bin\Debug\Arrays.exe.config
+D:\Arrays\bin\Debug\Arrays.exe
+D:\Arrays\bin\Debug\Arrays.pdb
+D:\Arrays\obj\Debug\000_Arrays.csproj.CoreCompileInputs.cache
+D:\Arrays\obj\Debug\Arrays.exe
+D:\Arrays\obj\Debug\Arrays.pdb
+D:\Arrays\bin\Debug\Arrays.exe.CodeAnalysisLog.xml
+D:\Arrays\bin\Debug\Arrays.exe.lastcodeanalysissucceeded

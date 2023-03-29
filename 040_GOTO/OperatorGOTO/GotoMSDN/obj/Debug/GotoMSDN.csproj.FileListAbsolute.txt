@@ -1,0 +1,7 @@
+D:\OperatorGOTO\GotoMSDN\bin\Debug\GotoMSDN.exe.config
+D:\OperatorGOTO\GotoMSDN\bin\Debug\GotoMSDN.exe
+D:\OperatorGOTO\GotoMSDN\bin\Debug\GotoMSDN.pdb
+D:\OperatorGOTO\GotoMSDN\obj\Debug\GotoMSDN.csprojAssemblyReference.cache
+D:\OperatorGOTO\GotoMSDN\obj\Debug\GotoMSDN.csproj.CoreCompileInputs.cache
+D:\OperatorGOTO\GotoMSDN\obj\Debug\GotoMSDN.exe
+D:\OperatorGOTO\GotoMSDN\obj\Debug\GotoMSDN.pdb

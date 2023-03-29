@@ -1,0 +1,7 @@
+D:\ArrayOperations\ReverseArray\bin\Debug\ReverseArray.exe.config
+D:\ArrayOperations\ReverseArray\bin\Debug\ReverseArray.exe
+D:\ArrayOperations\ReverseArray\bin\Debug\ReverseArray.pdb
+D:\ArrayOperations\ReverseArray\obj\Debug\ReverseArray.csprojAssemblyReference.cache
+D:\ArrayOperations\ReverseArray\obj\Debug\ReverseArray.csproj.CoreCompileInputs.cache
+D:\ArrayOperations\ReverseArray\obj\Debug\ReverseArray.exe
+D:\ArrayOperations\ReverseArray\obj\Debug\ReverseArray.pdb

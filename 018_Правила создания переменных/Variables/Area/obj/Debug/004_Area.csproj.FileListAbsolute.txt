@@ -1,0 +1,14 @@
+D:\Variables\Area\bin\Debug\Area.exe.config
+D:\Variables\Area\bin\Debug\Area.exe
+D:\Variables\Area\bin\Debug\Area.pdb
+D:\Variables\Area\obj\Debug\004_Area.csproj.CoreCompileInputs.cache
+D:\Variables\Area\obj\Debug\Area.exe
+D:\Variables\Area\obj\Debug\Area.pdb
+D:\Variables\Area\obj\Debug\004_Area.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\Area\bin\Debug\Area.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\Area\bin\Debug\Area.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\Area\bin\Debug\Area.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\Area\obj\Debug\004_Area.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\Area\obj\Debug\004_Area.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\Area\obj\Debug\Area.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\Area\obj\Debug\Area.pdb

@@ -1,0 +1,7 @@
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\MusicalScale\bin\Debug\MusicalScale.exe.config
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\MusicalScale\bin\Debug\MusicalScale.exe
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\MusicalScale\bin\Debug\MusicalScale.pdb
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\MusicalScale\obj\Debug\007_MusicalScale.csprojAssemblyReference.cache
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\MusicalScale\obj\Debug\007_MusicalScale.csproj.CoreCompileInputs.cache
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\MusicalScale\obj\Debug\MusicalScale.exe
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\MusicalScale\obj\Debug\MusicalScale.pdb

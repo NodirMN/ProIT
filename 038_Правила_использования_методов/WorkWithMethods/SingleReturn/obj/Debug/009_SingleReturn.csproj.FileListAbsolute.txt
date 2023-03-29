@@ -1,0 +1,7 @@
+D:\WorkWithMethods\SingleReturn\bin\Debug\SingleReturn.exe.config
+D:\WorkWithMethods\SingleReturn\bin\Debug\SingleReturn.exe
+D:\WorkWithMethods\SingleReturn\bin\Debug\SingleReturn.pdb
+D:\WorkWithMethods\SingleReturn\obj\Debug\009_SingleReturn.csprojAssemblyReference.cache
+D:\WorkWithMethods\SingleReturn\obj\Debug\009_SingleReturn.csproj.CoreCompileInputs.cache
+D:\WorkWithMethods\SingleReturn\obj\Debug\SingleReturn.exe
+D:\WorkWithMethods\SingleReturn\obj\Debug\SingleReturn.pdb

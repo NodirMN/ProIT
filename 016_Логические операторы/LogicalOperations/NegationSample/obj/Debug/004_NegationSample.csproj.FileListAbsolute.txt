@@ -1,0 +1,14 @@
+D:\LogicalOperations\NegationSample\bin\Debug\NegationSample.exe.config
+D:\LogicalOperations\NegationSample\bin\Debug\NegationSample.exe
+D:\LogicalOperations\NegationSample\bin\Debug\NegationSample.pdb
+D:\LogicalOperations\NegationSample\obj\Debug\004_NegationSample.csprojAssemblyReference.cache
+D:\LogicalOperations\NegationSample\obj\Debug\004_NegationSample.csproj.CoreCompileInputs.cache
+D:\LogicalOperations\NegationSample\obj\Debug\NegationSample.exe
+D:\LogicalOperations\NegationSample\obj\Debug\NegationSample.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\NegationSample\bin\Debug\NegationSample.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\NegationSample\bin\Debug\NegationSample.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\NegationSample\bin\Debug\NegationSample.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\NegationSample\obj\Debug\004_NegationSample.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\NegationSample\obj\Debug\004_NegationSample.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\NegationSample\obj\Debug\NegationSample.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\NegationSample\obj\Debug\NegationSample.pdb

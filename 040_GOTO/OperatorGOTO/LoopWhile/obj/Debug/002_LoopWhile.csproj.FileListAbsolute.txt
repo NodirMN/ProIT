@@ -1,0 +1,7 @@
+D:\OperatorGOTO\LoopWhile\bin\Debug\LoopWhile.exe.config
+D:\OperatorGOTO\LoopWhile\bin\Debug\LoopWhile.exe
+D:\OperatorGOTO\LoopWhile\bin\Debug\LoopWhile.pdb
+D:\OperatorGOTO\LoopWhile\obj\Debug\002_LoopWhile.csprojAssemblyReference.cache
+D:\OperatorGOTO\LoopWhile\obj\Debug\002_LoopWhile.csproj.CoreCompileInputs.cache
+D:\OperatorGOTO\LoopWhile\obj\Debug\LoopWhile.exe
+D:\OperatorGOTO\LoopWhile\obj\Debug\LoopWhile.pdb

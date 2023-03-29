@@ -1,0 +1,7 @@
+D:\TernaryOperator\KeywordRef\bin\Debug\KeywordRef.exe.config
+D:\TernaryOperator\KeywordRef\bin\Debug\KeywordRef.exe
+D:\TernaryOperator\KeywordRef\bin\Debug\KeywordRef.pdb
+D:\TernaryOperator\KeywordRef\obj\Debug\005_KeywordRef.csprojAssemblyReference.cache
+D:\TernaryOperator\KeywordRef\obj\Debug\005_KeywordRef.csproj.CoreCompileInputs.cache
+D:\TernaryOperator\KeywordRef\obj\Debug\KeywordRef.exe
+D:\TernaryOperator\KeywordRef\obj\Debug\KeywordRef.pdb

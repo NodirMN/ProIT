@@ -1,0 +1,7 @@
+D:\ArrayOperations\bin\Debug\ArrayOperations.exe.config
+D:\ArrayOperations\bin\Debug\ArrayOperations.exe
+D:\ArrayOperations\bin\Debug\ArrayOperations.pdb
+D:\ArrayOperations\obj\Debug\000_ArrayOperations.csproj.CoreCompileInputs.cache
+D:\ArrayOperations\obj\Debug\ArrayOperations.exe
+D:\ArrayOperations\obj\Debug\ArrayOperations.pdb
+D:\ArrayOperations\obj\Debug\000_ArrayOperations.csprojAssemblyReference.cache

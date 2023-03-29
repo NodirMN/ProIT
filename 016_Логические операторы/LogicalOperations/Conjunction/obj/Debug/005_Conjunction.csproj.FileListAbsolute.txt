@@ -1,0 +1,14 @@
+D:\LogicalOperations\Conjunction\bin\Debug\Conjunction.exe.config
+D:\LogicalOperations\Conjunction\bin\Debug\Conjunction.exe
+D:\LogicalOperations\Conjunction\bin\Debug\Conjunction.pdb
+D:\LogicalOperations\Conjunction\obj\Debug\005_Conjunction.csprojAssemblyReference.cache
+D:\LogicalOperations\Conjunction\obj\Debug\005_Conjunction.csproj.CoreCompileInputs.cache
+D:\LogicalOperations\Conjunction\obj\Debug\Conjunction.exe
+D:\LogicalOperations\Conjunction\obj\Debug\Conjunction.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\Conjunction\bin\Debug\Conjunction.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\Conjunction\bin\Debug\Conjunction.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\Conjunction\bin\Debug\Conjunction.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\Conjunction\obj\Debug\005_Conjunction.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\Conjunction\obj\Debug\005_Conjunction.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\Conjunction\obj\Debug\Conjunction.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\Conjunction\obj\Debug\Conjunction.pdb

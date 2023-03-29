@@ -1,0 +1,7 @@
+D:\LogicalOperations\ConjunctionSample\bin\Debug\ConjunctionSample.exe.config
+D:\LogicalOperations\ConjunctionSample\bin\Debug\ConjunctionSample.exe
+D:\LogicalOperations\ConjunctionSample\bin\Debug\ConjunctionSample.pdb
+D:\LogicalOperations\ConjunctionSample\obj\Debug\ConjunctionSample.csprojAssemblyReference.cache
+D:\LogicalOperations\ConjunctionSample\obj\Debug\ConjunctionSample.csproj.CoreCompileInputs.cache
+D:\LogicalOperations\ConjunctionSample\obj\Debug\ConjunctionSample.exe
+D:\LogicalOperations\ConjunctionSample\obj\Debug\ConjunctionSample.pdb

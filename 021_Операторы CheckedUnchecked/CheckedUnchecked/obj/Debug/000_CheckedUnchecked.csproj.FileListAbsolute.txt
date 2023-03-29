@@ -1,0 +1,7 @@
+D:\CheckedUnchecked\bin\Debug\CheckedUnchecked.exe.config
+D:\CheckedUnchecked\bin\Debug\CheckedUnchecked.exe
+D:\CheckedUnchecked\bin\Debug\CheckedUnchecked.pdb
+D:\CheckedUnchecked\obj\Debug\000_CheckedUnchecked.csprojAssemblyReference.cache
+D:\CheckedUnchecked\obj\Debug\000_CheckedUnchecked.csproj.CoreCompileInputs.cache
+D:\CheckedUnchecked\obj\Debug\CheckedUnchecked.exe
+D:\CheckedUnchecked\obj\Debug\CheckedUnchecked.pdb

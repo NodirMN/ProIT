@@ -1,0 +1,7 @@
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\CodeRepetition\bin\Debug\CodeRepetition.exe.config
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\CodeRepetition\bin\Debug\CodeRepetition.exe
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\CodeRepetition\bin\Debug\CodeRepetition.pdb
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\CodeRepetition\obj\Debug\002_CodeRepetition.csprojAssemblyReference.cache
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\CodeRepetition\obj\Debug\002_CodeRepetition.csproj.CoreCompileInputs.cache
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\CodeRepetition\obj\Debug\CodeRepetition.exe
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\CodeRepetition\obj\Debug\CodeRepetition.pdb

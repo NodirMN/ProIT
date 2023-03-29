@@ -1,0 +1,7 @@
+D:\StringVariables\StringConversion\bin\Debug\StringConversion.exe.config
+D:\StringVariables\StringConversion\bin\Debug\StringConversion.exe
+D:\StringVariables\StringConversion\bin\Debug\StringConversion.pdb
+D:\StringVariables\StringConversion\obj\Debug\004_StringConversion.csprojAssemblyReference.cache
+D:\StringVariables\StringConversion\obj\Debug\004_StringConversion.csproj.CoreCompileInputs.cache
+D:\StringVariables\StringConversion\obj\Debug\StringConversion.exe
+D:\StringVariables\StringConversion\obj\Debug\StringConversion.pdb

@@ -1,0 +1,13 @@
+D:\ExplicitCasting\obj\Debug\005_ExplicitCasting.csprojAssemblyReference.cache
+D:\ExplicitCasting\obj\Debug\005_ExplicitCasting.csproj.CoreCompileInputs.cache
+D:\ExplicitCasting\bin\Debug\ExplicitCasting.exe.config
+D:\ExplicitCasting\bin\Debug\ExplicitCasting.exe
+D:\ExplicitCasting\bin\Debug\ExplicitCasting.pdb
+D:\ExplicitCasting\obj\Debug\ExplicitCasting.exe
+D:\ExplicitCasting\obj\Debug\ExplicitCasting.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\ExplicitCasting\bin\Debug\ExplicitCasting.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\ExplicitCasting\bin\Debug\ExplicitCasting.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\ExplicitCasting\bin\Debug\ExplicitCasting.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\ExplicitCasting\obj\Debug\005_ExplicitCasting.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\ExplicitCasting\obj\Debug\ExplicitCasting.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\010_Использование числовых переменных\MyProgram\ExplicitCasting\obj\Debug\ExplicitCasting.pdb

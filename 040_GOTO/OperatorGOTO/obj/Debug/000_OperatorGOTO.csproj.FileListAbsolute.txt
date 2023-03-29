@@ -1,0 +1,7 @@
+D:\OperatorGOTO\bin\Debug\OperatorGOTO.exe.config
+D:\OperatorGOTO\bin\Debug\OperatorGOTO.exe
+D:\OperatorGOTO\bin\Debug\OperatorGOTO.pdb
+D:\OperatorGOTO\obj\Debug\000_OperatorGOTO.csprojAssemblyReference.cache
+D:\OperatorGOTO\obj\Debug\000_OperatorGOTO.csproj.CoreCompileInputs.cache
+D:\OperatorGOTO\obj\Debug\OperatorGOTO.exe
+D:\OperatorGOTO\obj\Debug\OperatorGOTO.pdb

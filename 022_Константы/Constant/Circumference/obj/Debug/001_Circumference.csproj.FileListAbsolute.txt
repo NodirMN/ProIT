@@ -1,0 +1,7 @@
+D:\Constant\Circumference\bin\Debug\Circumference.exe.config
+D:\Constant\Circumference\bin\Debug\Circumference.exe
+D:\Constant\Circumference\bin\Debug\Circumference.pdb
+D:\Constant\Circumference\obj\Debug\001_Circumference.csproj.CoreCompileInputs.cache
+D:\Constant\Circumference\obj\Debug\Circumference.exe
+D:\Constant\Circumference\obj\Debug\Circumference.pdb
+D:\Constant\Circumference\obj\Debug\001_Circumference.csprojAssemblyReference.cache

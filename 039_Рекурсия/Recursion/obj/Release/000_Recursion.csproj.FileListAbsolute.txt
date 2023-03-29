@@ -1,0 +1,6 @@
+D:\Recursion\bin\Release\Recursion.exe.config
+D:\Recursion\bin\Release\Recursion.exe
+D:\Recursion\bin\Release\Recursion.pdb
+D:\Recursion\obj\Release\000_Recursion.csproj.CoreCompileInputs.cache
+D:\Recursion\obj\Release\Recursion.exe
+D:\Recursion\obj\Release\Recursion.pdb

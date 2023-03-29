@@ -1,0 +1,7 @@
+D:\StringOperation\Interpolatio3\bin\Debug\Interpolatio3.exe.config
+D:\StringOperation\Interpolatio3\bin\Debug\Interpolatio3.exe
+D:\StringOperation\Interpolatio3\bin\Debug\Interpolatio3.pdb
+D:\StringOperation\Interpolatio3\obj\Debug\008_Interpolatio.csprojAssemblyReference.cache
+D:\StringOperation\Interpolatio3\obj\Debug\008_Interpolatio.csproj.CoreCompileInputs.cache
+D:\StringOperation\Interpolatio3\obj\Debug\Interpolatio3.exe
+D:\StringOperation\Interpolatio3\obj\Debug\Interpolatio3.pdb

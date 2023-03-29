@@ -1,0 +1,7 @@
+D:\BitwiseOperators\IntegerDisjunction\bin\Debug\IntegerDisjunction.exe.config
+D:\BitwiseOperators\IntegerDisjunction\bin\Debug\IntegerDisjunction.exe
+D:\BitwiseOperators\IntegerDisjunction\bin\Debug\IntegerDisjunction.pdb
+D:\BitwiseOperators\IntegerDisjunction\obj\Debug\003_IntegerDisjunction.csprojAssemblyReference.cache
+D:\BitwiseOperators\IntegerDisjunction\obj\Debug\003_IntegerDisjunction.csproj.CoreCompileInputs.cache
+D:\BitwiseOperators\IntegerDisjunction\obj\Debug\IntegerDisjunction.exe
+D:\BitwiseOperators\IntegerDisjunction\obj\Debug\IntegerDisjunction.pdb

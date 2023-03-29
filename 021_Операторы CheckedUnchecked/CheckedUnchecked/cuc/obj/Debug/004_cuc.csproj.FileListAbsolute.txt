@@ -1,0 +1,14 @@
+D:\CheckedUnchecked\cuc\bin\Debug\cuc.exe.config
+D:\CheckedUnchecked\cuc\bin\Debug\cuc.exe
+D:\CheckedUnchecked\cuc\bin\Debug\cuc.pdb
+D:\CheckedUnchecked\cuc\obj\Debug\004_cuc.csprojAssemblyReference.cache
+D:\CheckedUnchecked\cuc\obj\Debug\004_cuc.csproj.CoreCompileInputs.cache
+D:\CheckedUnchecked\cuc\obj\Debug\cuc.exe
+D:\CheckedUnchecked\cuc\obj\Debug\cuc.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\021_Операторы CheckedUnchecked\CheckedUnchecked\cuc\bin\Debug\cuc.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\021_Операторы CheckedUnchecked\CheckedUnchecked\cuc\bin\Debug\cuc.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\021_Операторы CheckedUnchecked\CheckedUnchecked\cuc\bin\Debug\cuc.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\021_Операторы CheckedUnchecked\CheckedUnchecked\cuc\obj\Debug\004_cuc.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\021_Операторы CheckedUnchecked\CheckedUnchecked\cuc\obj\Debug\004_cuc.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\021_Операторы CheckedUnchecked\CheckedUnchecked\cuc\obj\Debug\cuc.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\021_Операторы CheckedUnchecked\CheckedUnchecked\cuc\obj\Debug\cuc.pdb

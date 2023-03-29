@@ -1,0 +1,7 @@
+D:\LogicalOperations\Disjunction\bin\Debug\Disjunction.exe.config
+D:\LogicalOperations\Disjunction\bin\Debug\Disjunction.exe
+D:\LogicalOperations\Disjunction\bin\Debug\Disjunction.pdb
+D:\LogicalOperations\Disjunction\obj\Debug\009_Disjunction.csprojAssemblyReference.cache
+D:\LogicalOperations\Disjunction\obj\Debug\009_Disjunction.csproj.CoreCompileInputs.cache
+D:\LogicalOperations\Disjunction\obj\Debug\Disjunction.exe
+D:\LogicalOperations\Disjunction\obj\Debug\Disjunction.pdb

@@ -1,0 +1,7 @@
+D:\BitwiseOperators\Shift\bin\Debug\Shift.exe.config
+D:\BitwiseOperators\Shift\bin\Debug\Shift.exe
+D:\BitwiseOperators\Shift\bin\Debug\Shift.pdb
+D:\BitwiseOperators\Shift\obj\Debug\Shift.csprojAssemblyReference.cache
+D:\BitwiseOperators\Shift\obj\Debug\Shift.csproj.CoreCompileInputs.cache
+D:\BitwiseOperators\Shift\obj\Debug\Shift.exe
+D:\BitwiseOperators\Shift\obj\Debug\Shift.pdb

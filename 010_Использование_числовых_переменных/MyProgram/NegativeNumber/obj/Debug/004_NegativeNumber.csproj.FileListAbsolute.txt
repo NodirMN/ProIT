@@ -1,0 +1,7 @@
+D:\NegativeNumber\bin\Debug\NegativeNumber.exe.config
+D:\NegativeNumber\bin\Debug\NegativeNumber.exe
+D:\NegativeNumber\bin\Debug\NegativeNumber.pdb
+D:\NegativeNumber\obj\Debug\004_NegativeNumber.csprojAssemblyReference.cache
+D:\NegativeNumber\obj\Debug\004_NegativeNumber.csproj.CoreCompileInputs.cache
+D:\NegativeNumber\obj\Debug\NegativeNumber.exe
+D:\NegativeNumber\obj\Debug\NegativeNumber.pdb

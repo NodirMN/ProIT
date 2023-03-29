@@ -1,0 +1,14 @@
+D:\Recursion\bin\Debug\Recursion.exe.config
+D:\Recursion\bin\Debug\Recursion.exe
+D:\Recursion\bin\Debug\Recursion.pdb
+D:\Recursion\obj\Debug\000_Recursion.csproj.CoreCompileInputs.cache
+D:\Recursion\obj\Debug\Recursion.exe
+D:\Recursion\obj\Debug\Recursion.pdb
+D:\Recursion\obj\Debug\000_Recursion.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\bin\Debug\Recursion.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\bin\Debug\Recursion.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\bin\Debug\Recursion.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\obj\Debug\000_Recursion.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\obj\Debug\000_Recursion.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\obj\Debug\Recursion.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\obj\Debug\Recursion.pdb

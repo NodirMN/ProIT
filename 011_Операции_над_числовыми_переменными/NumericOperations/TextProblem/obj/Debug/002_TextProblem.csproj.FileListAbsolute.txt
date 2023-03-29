@@ -1,0 +1,7 @@
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\TextProblem\bin\Debug\TextProblem.exe.config
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\TextProblem\bin\Debug\TextProblem.exe
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\TextProblem\bin\Debug\TextProblem.pdb
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\TextProblem\obj\Debug\002_TextProblem.csprojAssemblyReference.cache
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\TextProblem\obj\Debug\002_TextProblem.csproj.CoreCompileInputs.cache
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\TextProblem\obj\Debug\TextProblem.exe
+D:\WORK\C# Book\LESSONS\010_Операции над числовыми переменными\NumericOperations\TextProblem\obj\Debug\TextProblem.pdb

@@ -1,0 +1,14 @@
+D:\Recursion\FactorialLoop\bin\Debug\FactorialLoop.exe.config
+D:\Recursion\FactorialLoop\bin\Debug\FactorialLoop.exe
+D:\Recursion\FactorialLoop\bin\Debug\FactorialLoop.pdb
+D:\Recursion\FactorialLoop\obj\Debug\004_FactorialLoop.csprojAssemblyReference.cache
+D:\Recursion\FactorialLoop\obj\Debug\004_FactorialLoop.csproj.CoreCompileInputs.cache
+D:\Recursion\FactorialLoop\obj\Debug\FactorialLoop.exe
+D:\Recursion\FactorialLoop\obj\Debug\FactorialLoop.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\FactorialLoop\bin\Debug\FactorialLoop.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\FactorialLoop\bin\Debug\FactorialLoop.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\FactorialLoop\bin\Debug\FactorialLoop.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\FactorialLoop\obj\Debug\004_FactorialLoop.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\FactorialLoop\obj\Debug\004_FactorialLoop.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\FactorialLoop\obj\Debug\FactorialLoop.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\FactorialLoop\obj\Debug\FactorialLoop.pdb

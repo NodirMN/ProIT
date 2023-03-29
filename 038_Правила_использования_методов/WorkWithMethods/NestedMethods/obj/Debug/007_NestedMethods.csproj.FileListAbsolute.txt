@@ -1,0 +1,7 @@
+D:\WorkWithMethods\NestedMethods\bin\Debug\NestedMethods.exe.config
+D:\WorkWithMethods\NestedMethods\bin\Debug\NestedMethods.exe
+D:\WorkWithMethods\NestedMethods\bin\Debug\NestedMethods.pdb
+D:\WorkWithMethods\NestedMethods\obj\Debug\007_NestedMethods.csprojAssemblyReference.cache
+D:\WorkWithMethods\NestedMethods\obj\Debug\007_NestedMethods.csproj.CoreCompileInputs.cache
+D:\WorkWithMethods\NestedMethods\obj\Debug\NestedMethods.exe
+D:\WorkWithMethods\NestedMethods\obj\Debug\NestedMethods.pdb

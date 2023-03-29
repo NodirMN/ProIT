@@ -1,0 +1,13 @@
+D:\ArithmeticOperations\NotANumber\bin\Debug\NotANumber.exe.config
+D:\ArithmeticOperations\NotANumber\bin\Debug\NotANumber.exe
+D:\ArithmeticOperations\NotANumber\bin\Debug\NotANumber.pdb
+D:\ArithmeticOperations\NotANumber\obj\Debug\003_NotANumber.csprojAssemblyReference.cache
+D:\ArithmeticOperations\NotANumber\obj\Debug\003_NotANumber.csproj.CoreCompileInputs.cache
+D:\ArithmeticOperations\NotANumber\obj\Debug\NotANumber.exe
+D:\ArithmeticOperations\NotANumber\obj\Debug\NotANumber.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\012_Арифметические операторы\ArithmeticOperations\NotANumber\bin\Debug\NotANumber.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\012_Арифметические операторы\ArithmeticOperations\NotANumber\bin\Debug\NotANumber.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\012_Арифметические операторы\ArithmeticOperations\NotANumber\bin\Debug\NotANumber.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\012_Арифметические операторы\ArithmeticOperations\NotANumber\obj\Debug\003_NotANumber.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\012_Арифметические операторы\ArithmeticOperations\NotANumber\obj\Debug\NotANumber.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\012_Арифметические операторы\ArithmeticOperations\NotANumber\obj\Debug\NotANumber.pdb

@@ -1,0 +1,6 @@
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\ConjunctionSample\bin\Debug\ConjunctionSample.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\ConjunctionSample\bin\Debug\ConjunctionSample.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\ConjunctionSample\bin\Debug\ConjunctionSample.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\ConjunctionSample\obj\Debug\006_ConjunctionSample.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\ConjunctionSample\obj\Debug\ConjunctionSample.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\ConjunctionSample\obj\Debug\ConjunctionSample.pdb

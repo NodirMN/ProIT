@@ -1,0 +1,7 @@
+D:\ArithmeticOperations\Priority\bin\Debug\Priority.exe.config
+D:\ArithmeticOperations\Priority\bin\Debug\Priority.exe
+D:\ArithmeticOperations\Priority\bin\Debug\Priority.pdb
+D:\ArithmeticOperations\Priority\obj\Debug\004_Priority.csprojAssemblyReference.cache
+D:\ArithmeticOperations\Priority\obj\Debug\004_Priority.csproj.CoreCompileInputs.cache
+D:\ArithmeticOperations\Priority\obj\Debug\Priority.exe
+D:\ArithmeticOperations\Priority\obj\Debug\Priority.pdb

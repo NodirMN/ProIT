@@ -1,0 +1,14 @@
+D:\ThreeDimensionalArray\Distribution\bin\Debug\Distribution.exe.config
+D:\ThreeDimensionalArray\Distribution\bin\Debug\Distribution.exe
+D:\ThreeDimensionalArray\Distribution\bin\Debug\Distribution.pdb
+D:\ThreeDimensionalArray\Distribution\obj\Debug\001_Distribution.csprojAssemblyReference.cache
+D:\ThreeDimensionalArray\Distribution\obj\Debug\001_Distribution.csproj.CoreCompileInputs.cache
+D:\ThreeDimensionalArray\Distribution\obj\Debug\Distribution.exe
+D:\ThreeDimensionalArray\Distribution\obj\Debug\Distribution.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\033_Трехмерные массивы\ThreeDimensionalArray\Distribution\bin\Debug\Distribution.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\033_Трехмерные массивы\ThreeDimensionalArray\Distribution\bin\Debug\Distribution.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\033_Трехмерные массивы\ThreeDimensionalArray\Distribution\bin\Debug\Distribution.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\033_Трехмерные массивы\ThreeDimensionalArray\Distribution\obj\Debug\001_Distribution.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\033_Трехмерные массивы\ThreeDimensionalArray\Distribution\obj\Debug\001_Distribution.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\033_Трехмерные массивы\ThreeDimensionalArray\Distribution\obj\Debug\Distribution.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\033_Трехмерные массивы\ThreeDimensionalArray\Distribution\obj\Debug\Distribution.pdb

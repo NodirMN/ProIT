@@ -1,0 +1,7 @@
+D:\BitwiseOperators\NegativeShift\bin\Debug\NegativeShift.exe.config
+D:\BitwiseOperators\NegativeShift\bin\Debug\NegativeShift.exe
+D:\BitwiseOperators\NegativeShift\bin\Debug\NegativeShift.pdb
+D:\BitwiseOperators\NegativeShift\obj\Debug\006_NegativeShift.csprojAssemblyReference.cache
+D:\BitwiseOperators\NegativeShift\obj\Debug\006_NegativeShift.csproj.CoreCompileInputs.cache
+D:\BitwiseOperators\NegativeShift\obj\Debug\NegativeShift.exe
+D:\BitwiseOperators\NegativeShift\obj\Debug\NegativeShift.pdb

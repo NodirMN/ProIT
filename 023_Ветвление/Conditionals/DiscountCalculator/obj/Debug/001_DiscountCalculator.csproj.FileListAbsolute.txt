@@ -1,0 +1,7 @@
+D:\Conditionals\DiscountCalculator\bin\Debug\DiscountCalculator.exe.config
+D:\Conditionals\DiscountCalculator\bin\Debug\DiscountCalculator.exe
+D:\Conditionals\DiscountCalculator\bin\Debug\DiscountCalculator.pdb
+D:\Conditionals\DiscountCalculator\obj\Debug\001_DiscountCalculator.csprojAssemblyReference.cache
+D:\Conditionals\DiscountCalculator\obj\Debug\001_DiscountCalculator.csproj.CoreCompileInputs.cache
+D:\Conditionals\DiscountCalculator\obj\Debug\DiscountCalculator.exe
+D:\Conditionals\DiscountCalculator\obj\Debug\DiscountCalculator.pdb

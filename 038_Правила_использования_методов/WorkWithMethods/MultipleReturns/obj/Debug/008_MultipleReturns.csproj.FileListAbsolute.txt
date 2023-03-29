@@ -1,0 +1,7 @@
+D:\WorkWithMethods\MultipleReturns\bin\Debug\MultipleReturns.exe.config
+D:\WorkWithMethods\MultipleReturns\bin\Debug\MultipleReturns.exe
+D:\WorkWithMethods\MultipleReturns\bin\Debug\MultipleReturns.pdb
+D:\WorkWithMethods\MultipleReturns\obj\Debug\008_MultipleReturns.csprojAssemblyReference.cache
+D:\WorkWithMethods\MultipleReturns\obj\Debug\008_MultipleReturns.csproj.CoreCompileInputs.cache
+D:\WorkWithMethods\MultipleReturns\obj\Debug\MultipleReturns.exe
+D:\WorkWithMethods\MultipleReturns\obj\Debug\MultipleReturns.pdb

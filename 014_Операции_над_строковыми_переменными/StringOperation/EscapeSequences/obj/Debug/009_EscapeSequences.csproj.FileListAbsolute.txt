@@ -1,0 +1,7 @@
+D:\StringOperation\EscapeSequences\bin\Debug\EscapeSequences.exe.config
+D:\StringOperation\EscapeSequences\bin\Debug\EscapeSequences.exe
+D:\StringOperation\EscapeSequences\bin\Debug\EscapeSequences.pdb
+D:\StringOperation\EscapeSequences\obj\Debug\009_EscapeSequences.csprojAssemblyReference.cache
+D:\StringOperation\EscapeSequences\obj\Debug\009_EscapeSequences.csproj.CoreCompileInputs.cache
+D:\StringOperation\EscapeSequences\obj\Debug\EscapeSequences.exe
+D:\StringOperation\EscapeSequences\obj\Debug\EscapeSequences.pdb

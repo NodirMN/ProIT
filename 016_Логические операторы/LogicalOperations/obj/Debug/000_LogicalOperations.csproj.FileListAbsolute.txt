@@ -1,0 +1,14 @@
+D:\LogicalOperations\bin\Debug\LogicalOperations.exe.config
+D:\LogicalOperations\bin\Debug\LogicalOperations.exe
+D:\LogicalOperations\bin\Debug\LogicalOperations.pdb
+D:\LogicalOperations\obj\Debug\000_LogicalOperations.csprojAssemblyReference.cache
+D:\LogicalOperations\obj\Debug\000_LogicalOperations.csproj.CoreCompileInputs.cache
+D:\LogicalOperations\obj\Debug\LogicalOperations.exe
+D:\LogicalOperations\obj\Debug\LogicalOperations.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\bin\Debug\LogicalOperations.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\bin\Debug\LogicalOperations.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\bin\Debug\LogicalOperations.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\obj\Debug\000_LogicalOperations.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\obj\Debug\000_LogicalOperations.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\obj\Debug\LogicalOperations.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\016_Логические операторы\LogicalOperations\obj\Debug\LogicalOperations.pdb

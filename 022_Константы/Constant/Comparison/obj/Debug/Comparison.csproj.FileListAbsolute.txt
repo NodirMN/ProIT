@@ -1,0 +1,7 @@
+D:\Constant\Comparison\bin\Debug\Comparison.exe.config
+D:\Constant\Comparison\bin\Debug\Comparison.exe
+D:\Constant\Comparison\bin\Debug\Comparison.pdb
+D:\Constant\Comparison\obj\Debug\Comparison.csprojAssemblyReference.cache
+D:\Constant\Comparison\obj\Debug\Comparison.csproj.CoreCompileInputs.cache
+D:\Constant\Comparison\obj\Debug\Comparison.exe
+D:\Constant\Comparison\obj\Debug\Comparison.pdb

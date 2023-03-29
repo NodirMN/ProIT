@@ -1,0 +1,7 @@
+D:\LogicalOperations\ConditionalConjunctionSample\bin\Debug\ConditionalConjunctionSample.exe.config
+D:\LogicalOperations\ConditionalConjunctionSample\bin\Debug\ConditionalConjunctionSample.exe
+D:\LogicalOperations\ConditionalConjunctionSample\bin\Debug\ConditionalConjunctionSample.pdb
+D:\LogicalOperations\ConditionalConjunctionSample\obj\Debug\007_ConditionalConjunctionSample.csprojAssemblyReference.cache
+D:\LogicalOperations\ConditionalConjunctionSample\obj\Debug\007_ConditionalConjunctionSample.csproj.CoreCompileInputs.cache
+D:\LogicalOperations\ConditionalConjunctionSample\obj\Debug\ConditionalConjunctionSample.exe
+D:\LogicalOperations\ConditionalConjunctionSample\obj\Debug\ConditionalConjunctionSample.pdb

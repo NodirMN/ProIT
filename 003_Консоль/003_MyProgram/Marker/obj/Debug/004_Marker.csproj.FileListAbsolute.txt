@@ -1,0 +1,7 @@
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\Marker\bin\Debug\Marker.exe.config
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\Marker\bin\Debug\Marker.exe
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\Marker\bin\Debug\Marker.pdb
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\Marker\obj\Debug\004_Marker.csprojAssemblyReference.cache
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\Marker\obj\Debug\004_Marker.csproj.CoreCompileInputs.cache
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\Marker\obj\Debug\Marker.exe
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\Marker\obj\Debug\Marker.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "000_Methods", "000_Methods.csproj", "{7739B2F7-F609-4C97-BC56-B9CD27EA3557}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_DiscountCalculator", "DiscountCalculator\001_DiscountCalculator.csproj", "{F50541CE-C630-4ED7-832D-9F5F4BF7C438}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7739B2F7-F609-4C97-BC56-B9CD27EA3557}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7739B2F7-F609-4C97-BC56-B9CD27EA3557}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7739B2F7-F609-4C97-BC56-B9CD27EA3557}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7739B2F7-F609-4C97-BC56-B9CD27EA3557}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F50541CE-C630-4ED7-832D-9F5F4BF7C438}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50541CE-C630-4ED7-832D-9F5F4BF7C438}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50541CE-C630-4ED7-832D-9F5F4BF7C438}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50541CE-C630-4ED7-832D-9F5F4BF7C438}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6F75CC6C-1AB9-4BA3-AA8E-CF41BF18F2F7}
+	EndGlobalSection
+EndGlobal

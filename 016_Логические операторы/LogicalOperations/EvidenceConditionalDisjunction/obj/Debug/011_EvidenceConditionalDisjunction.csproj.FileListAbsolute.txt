@@ -1,0 +1,7 @@
+D:\LogicalOperations\EvidenceConditionalDisjunction\bin\Debug\EvidenceConditionalDisjunction.exe.config
+D:\LogicalOperations\EvidenceConditionalDisjunction\bin\Debug\EvidenceConditionalDisjunction.exe
+D:\LogicalOperations\EvidenceConditionalDisjunction\bin\Debug\EvidenceConditionalDisjunction.pdb
+D:\LogicalOperations\EvidenceConditionalDisjunction\obj\Debug\011_EvidenceConditionalDisjunction.csprojAssemblyReference.cache
+D:\LogicalOperations\EvidenceConditionalDisjunction\obj\Debug\011_EvidenceConditionalDisjunction.csproj.CoreCompileInputs.cache
+D:\LogicalOperations\EvidenceConditionalDisjunction\obj\Debug\EvidenceConditionalDisjunction.exe
+D:\LogicalOperations\EvidenceConditionalDisjunction\obj\Debug\EvidenceConditionalDisjunction.pdb

@@ -1,0 +1,7 @@
+D:\LogicalOperations\XOR\bin\Debug\XOR.exe.config
+D:\LogicalOperations\XOR\bin\Debug\XOR.exe
+D:\LogicalOperations\XOR\bin\Debug\XOR.pdb
+D:\LogicalOperations\XOR\obj\Debug\012_XOR.csprojAssemblyReference.cache
+D:\LogicalOperations\XOR\obj\Debug\012_XOR.csproj.CoreCompileInputs.cache
+D:\LogicalOperations\XOR\obj\Debug\XOR.exe
+D:\LogicalOperations\XOR\obj\Debug\XOR.pdb

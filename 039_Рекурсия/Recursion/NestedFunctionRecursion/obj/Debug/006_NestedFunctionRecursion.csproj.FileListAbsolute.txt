@@ -1,0 +1,14 @@
+D:\Recursion\NestedFunctionRecursion\bin\Debug\NestedFunctionRecursion.exe.config
+D:\Recursion\NestedFunctionRecursion\bin\Debug\NestedFunctionRecursion.exe
+D:\Recursion\NestedFunctionRecursion\bin\Debug\NestedFunctionRecursion.pdb
+D:\Recursion\NestedFunctionRecursion\obj\Debug\006_NestedFunctionRecursion.csprojAssemblyReference.cache
+D:\Recursion\NestedFunctionRecursion\obj\Debug\006_NestedFunctionRecursion.csproj.CoreCompileInputs.cache
+D:\Recursion\NestedFunctionRecursion\obj\Debug\NestedFunctionRecursion.exe
+D:\Recursion\NestedFunctionRecursion\obj\Debug\NestedFunctionRecursion.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\NestedFunctionRecursion\bin\Debug\NestedFunctionRecursion.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\NestedFunctionRecursion\bin\Debug\NestedFunctionRecursion.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\NestedFunctionRecursion\bin\Debug\NestedFunctionRecursion.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\NestedFunctionRecursion\obj\Debug\006_NestedFunctionRecursion.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\NestedFunctionRecursion\obj\Debug\006_NestedFunctionRecursion.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\NestedFunctionRecursion\obj\Debug\NestedFunctionRecursion.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\039_Рекурсия\Recursion\NestedFunctionRecursion\obj\Debug\NestedFunctionRecursion.pdb

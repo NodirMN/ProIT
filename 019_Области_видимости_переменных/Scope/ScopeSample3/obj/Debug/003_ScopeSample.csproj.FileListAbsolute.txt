@@ -1,0 +1,7 @@
+D:\Scope\ScopeSample3\bin\Debug\ScopeSample3.exe.config
+D:\Scope\ScopeSample3\bin\Debug\ScopeSample3.exe
+D:\Scope\ScopeSample3\bin\Debug\ScopeSample3.pdb
+D:\Scope\ScopeSample3\obj\Debug\003_ScopeSample.csprojAssemblyReference.cache
+D:\Scope\ScopeSample3\obj\Debug\003_ScopeSample.csproj.CoreCompileInputs.cache
+D:\Scope\ScopeSample3\obj\Debug\ScopeSample3.exe
+D:\Scope\ScopeSample3\obj\Debug\ScopeSample3.pdb

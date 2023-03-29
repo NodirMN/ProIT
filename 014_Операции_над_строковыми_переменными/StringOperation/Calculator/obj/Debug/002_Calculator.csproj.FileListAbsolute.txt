@@ -1,0 +1,7 @@
+D:\StringOperation\Calculator\bin\Debug\Calculator.exe.config
+D:\StringOperation\Calculator\bin\Debug\Calculator.exe
+D:\StringOperation\Calculator\bin\Debug\Calculator.pdb
+D:\StringOperation\Calculator\obj\Debug\002_Calculator.csprojAssemblyReference.cache
+D:\StringOperation\Calculator\obj\Debug\002_Calculator.csproj.CoreCompileInputs.cache
+D:\StringOperation\Calculator\obj\Debug\Calculator.exe
+D:\StringOperation\Calculator\obj\Debug\Calculator.pdb

@@ -1,0 +1,13 @@
+D:\ArithmeticOperations\PriorityPostfixInc\bin\Debug\PriorityPostfixInc.exe.config
+D:\ArithmeticOperations\PriorityPostfixInc\bin\Debug\PriorityPostfixInc.exe
+D:\ArithmeticOperations\PriorityPostfixInc\bin\Debug\PriorityPostfixInc.pdb
+D:\ArithmeticOperations\PriorityPostfixInc\obj\Debug\005_PriorityPostfixInc.csprojAssemblyReference.cache
+D:\ArithmeticOperations\PriorityPostfixInc\obj\Debug\005_PriorityPostfixInc.csproj.CoreCompileInputs.cache
+D:\ArithmeticOperations\PriorityPostfixInc\obj\Debug\PriorityPostfixInc.exe
+D:\ArithmeticOperations\PriorityPostfixInc\obj\Debug\PriorityPostfixInc.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\012_Арифметические операторы\ArithmeticOperations\PriorityPostfixInc\bin\Debug\PriorityPostfixInc.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\012_Арифметические операторы\ArithmeticOperations\PriorityPostfixInc\bin\Debug\PriorityPostfixInc.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\012_Арифметические операторы\ArithmeticOperations\PriorityPostfixInc\bin\Debug\PriorityPostfixInc.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\012_Арифметические операторы\ArithmeticOperations\PriorityPostfixInc\obj\Debug\005_PriorityPostfixInc.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\012_Арифметические операторы\ArithmeticOperations\PriorityPostfixInc\obj\Debug\PriorityPostfixInc.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\012_Арифметические операторы\ArithmeticOperations\PriorityPostfixInc\obj\Debug\PriorityPostfixInc.pdb

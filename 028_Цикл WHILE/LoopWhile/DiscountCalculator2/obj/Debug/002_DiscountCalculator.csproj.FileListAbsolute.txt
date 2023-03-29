@@ -1,0 +1,7 @@
+D:\LoopWhile\DiscountCalculator2\bin\Debug\DiscountCalculator2.exe.config
+D:\LoopWhile\DiscountCalculator2\bin\Debug\DiscountCalculator2.exe
+D:\LoopWhile\DiscountCalculator2\bin\Debug\DiscountCalculator2.pdb
+D:\LoopWhile\DiscountCalculator2\obj\Debug\002_DiscountCalculator.csprojAssemblyReference.cache
+D:\LoopWhile\DiscountCalculator2\obj\Debug\002_DiscountCalculator.csproj.CoreCompileInputs.cache
+D:\LoopWhile\DiscountCalculator2\obj\Debug\DiscountCalculator2.exe
+D:\LoopWhile\DiscountCalculator2\obj\Debug\DiscountCalculator2.pdb

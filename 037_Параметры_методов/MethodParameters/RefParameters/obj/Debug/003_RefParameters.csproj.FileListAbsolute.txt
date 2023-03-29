@@ -1,0 +1,7 @@
+D:\MethodParameters\RefParameters\bin\Debug\RefParameters.exe.config
+D:\MethodParameters\RefParameters\bin\Debug\RefParameters.exe
+D:\MethodParameters\RefParameters\bin\Debug\RefParameters.pdb
+D:\MethodParameters\RefParameters\obj\Debug\003_RefParameters.csprojAssemblyReference.cache
+D:\MethodParameters\RefParameters\obj\Debug\003_RefParameters.csproj.CoreCompileInputs.cache
+D:\MethodParameters\RefParameters\obj\Debug\RefParameters.exe
+D:\MethodParameters\RefParameters\obj\Debug\RefParameters.pdb

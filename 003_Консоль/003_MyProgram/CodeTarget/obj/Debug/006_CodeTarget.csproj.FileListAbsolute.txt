@@ -1,0 +1,7 @@
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\CodeTarget\bin\Debug\CodeTarget.exe.config
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\CodeTarget\bin\Debug\CodeTarget.exe
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\CodeTarget\bin\Debug\CodeTarget.pdb
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\CodeTarget\obj\Debug\006_CodeTarget.csprojAssemblyReference.cache
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\CodeTarget\obj\Debug\006_CodeTarget.csproj.CoreCompileInputs.cache
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\CodeTarget\obj\Debug\CodeTarget.exe
+D:\WORK\C# Book\LESSONS\003_Программа_Алгоритм_Комментарии\MyProgram\CodeTarget\obj\Debug\CodeTarget.pdb

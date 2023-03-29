@@ -1,0 +1,7 @@
+D:\LogicalOperations\Negation\bin\Debug\Negation.exe.config
+D:\LogicalOperations\Negation\bin\Debug\Negation.exe
+D:\LogicalOperations\Negation\bin\Debug\Negation.pdb
+D:\LogicalOperations\Negation\obj\Debug\003_Negation.csprojAssemblyReference.cache
+D:\LogicalOperations\Negation\obj\Debug\003_Negation.csproj.CoreCompileInputs.cache
+D:\LogicalOperations\Negation\obj\Debug\Negation.exe
+D:\LogicalOperations\Negation\obj\Debug\Negation.pdb

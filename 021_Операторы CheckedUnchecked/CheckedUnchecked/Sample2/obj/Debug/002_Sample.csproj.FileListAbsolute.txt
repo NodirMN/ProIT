@@ -1,0 +1,7 @@
+D:\CheckedUnchecked\Sample2\bin\Debug\Sample2.exe.config
+D:\CheckedUnchecked\Sample2\bin\Debug\Sample2.exe
+D:\CheckedUnchecked\Sample2\bin\Debug\Sample2.pdb
+D:\CheckedUnchecked\Sample2\obj\Debug\002_Sample.csprojAssemblyReference.cache
+D:\CheckedUnchecked\Sample2\obj\Debug\002_Sample.csproj.CoreCompileInputs.cache
+D:\CheckedUnchecked\Sample2\obj\Debug\Sample2.exe
+D:\CheckedUnchecked\Sample2\obj\Debug\Sample2.pdb

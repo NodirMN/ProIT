@@ -1,0 +1,14 @@
+D:\Variables\StrongTyping\bin\Debug\StrongTyping.exe.config
+D:\Variables\StrongTyping\bin\Debug\StrongTyping.exe
+D:\Variables\StrongTyping\bin\Debug\StrongTyping.pdb
+D:\Variables\StrongTyping\obj\Debug\001_StrongTyping.csprojAssemblyReference.cache
+D:\Variables\StrongTyping\obj\Debug\001_StrongTyping.csproj.CoreCompileInputs.cache
+D:\Variables\StrongTyping\obj\Debug\StrongTyping.exe
+D:\Variables\StrongTyping\obj\Debug\StrongTyping.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\StrongTyping\bin\Debug\StrongTyping.exe.config
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\StrongTyping\bin\Debug\StrongTyping.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\StrongTyping\bin\Debug\StrongTyping.pdb
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\StrongTyping\obj\Debug\001_StrongTyping.csprojAssemblyReference.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\StrongTyping\obj\Debug\001_StrongTyping.csproj.CoreCompileInputs.cache
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\StrongTyping\obj\Debug\StrongTyping.exe
+C:\Users\B\Google Диск\Work\ITVDN\Тексты\Проверить\_Процедурное программирование на языке C#\018_Правила создания переменных\Variables\StrongTyping\obj\Debug\StrongTyping.pdb

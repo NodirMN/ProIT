@@ -1,0 +1,7 @@
+D:\WorkWithMethods\bin\Debug\WorkWithMethods.exe.config
+D:\WorkWithMethods\bin\Debug\WorkWithMethods.exe
+D:\WorkWithMethods\bin\Debug\WorkWithMethods.pdb
+D:\WorkWithMethods\obj\Debug\000_WorkWithMethods.csprojAssemblyReference.cache
+D:\WorkWithMethods\obj\Debug\000_WorkWithMethods.csproj.CoreCompileInputs.cache
+D:\WorkWithMethods\obj\Debug\WorkWithMethods.exe
+D:\WorkWithMethods\obj\Debug\WorkWithMethods.pdb
